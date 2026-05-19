@@ -12,3 +12,5 @@ A premium, production-grade commercial food delivery landing platform engineered
 * **Styling & Fluid Runtimes:** Custom Multi-Tier CSS Grid Overrides, Normalization Engines
 * **Interactivity & Micro-Scripts:** Viewport Event Handling (jQuery Scroll Runtimes)
 * **Animation Infrastructure:** Asynchronous Scroll Orchestration Pipeline (AOS JavaScript Ecosystem)
+
+💻 [**Launch Live Application Demo**](https://0mnifooddelivery.netlify.app/)
